@@ -72,17 +72,16 @@ Reconnu pour ma rigueur et ma capacité à concevoir des solutions adaptées à 
   <img src="https://img.shields.io/badge/LinkedIn-Ranaivoson%20Heriniaina-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
-<br/><br/>
+
 
 
 </div>
----
+
 
 <div align="center">
 
 <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400" />
 
-<br/>
 
 
 </div>
