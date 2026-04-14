@@ -8,12 +8,8 @@
 
 <div align="center">
 
-### Hey, je suis Hery
-
-
-<br/>
-
-Développeur informatique polyvalent basé à **Antsirabe, Madagascar**.  
+### Hey, je suis Hery , Développeur Fullstack.
+  
 Je me spécialise dans le **développement web & mobile**, avec une expertise en supervision de systèmes et intégration d'IA.  
 Reconnu pour ma rigueur et ma capacité à concevoir des solutions adaptées à des contextes réels.
 
