@@ -1,8 +1,17 @@
 <div align="center">
 
-# Salut, je suis HERY
+<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="400" />
 
-###  Développeur Full-Stack · Master I Génie Logiciel
+</div>
+
+---
+
+<div align="center">
+
+### Hey, je suis Hery
+
+
+<br/>
 
 Développeur informatique polyvalent basé à **Antsirabe, Madagascar**.  
 Je me spécialise dans le **développement web & mobile**, avec une expertise en supervision de systèmes et intégration d'IA.  
@@ -12,7 +21,11 @@ Reconnu pour ma rigueur et ma capacité à concevoir des solutions adaptées à 
 
 ---
 
-## 🛠️ Stack Technique
+##  Stack Technique
+
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700" />
+</div>
 
 ### Front-end
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -43,32 +56,39 @@ Reconnu pour ma rigueur et ma capacité à concevoir des solutions adaptées à 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
----
-
 
 
 ## Contacts
 
-<p align="left">
-  <a href="mailto:r.heryjo@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-r.heryjo%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  &nbsp;
-  <a href="https://github.com/HeryJL" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-HeryJL-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  &nbsp;
-  <a href="https://www.linkedin.com/in/heryjl" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Ranaivoson%20Heriniaina-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</p>
+<div align="center">
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Localisation-Antsirabe%2C%20Madagascar-FF5722?style=for-the-badge&logo=googlemaps&logoColor=white" />
-</p>
+
+
+<a href="mailto:r.heryjo@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-r.heryjo%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+&nbsp;
+<a href="https://github.com/HeryJL" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-HeryJL-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+&nbsp;
+<a href="https://www.linkedin.com/in/heryjl" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-Ranaivoson%20Heriniaina-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/📍%20Localisation-Antsirabe%2C%20Madagascar-FF5722?style=for-the-badge&logo=googlemaps&logoColor=white" />
+
+</div>
 
 ---
 
 <div align="center">
-  <i>💡 Ouvert aux opportunités de freelance, collaboration et projets innovants !</i>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400" />
+
+<br/>
+
+
 </div>
