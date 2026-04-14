@@ -68,16 +68,14 @@ Reconnu pour ma rigueur et ma capacité à concevoir des solutions adaptées à 
   <img src="https://img.shields.io/badge/GitHub-HeryJL-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 &nbsp;
-<a href="https://www.linkedin.com/in/heryjl" target="_blank">
+<a href="https://www.linkedin.com//in/hery-jl" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-Ranaivoson%20Heriniaina-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/📍%20Localisation-Antsirabe%2C%20Madagascar-FF5722?style=for-the-badge&logo=googlemaps&logoColor=white" />
 
 </div>
-
 ---
 
 <div align="center">
