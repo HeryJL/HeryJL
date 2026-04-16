@@ -61,15 +61,15 @@ Reconnu pour ma rigueur et ma capacité à concevoir des solutions adaptées à 
 
 
 <a href="mailto:r.heryjo@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-r.heryjo%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/r.heryjo%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
-&nbsp;
+
 <a href="https://github.com/HeryJL" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-HeryJL-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/HeryJL-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
-&nbsp;
+
 <a href="https://www.linkedin.com//in/hery-jl" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-Ranaivoson%20Heriniaina-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/hery Laurier-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
 
@@ -78,10 +78,4 @@ Reconnu pour ma rigueur et ma capacité à concevoir des solutions adaptées à 
 </div>
 
 
-<div align="center">
 
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400" />
-
-
-
-</div>
