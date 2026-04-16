@@ -1,27 +1,21 @@
 <div align="center">
-
 <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="400" />
-
 </div>
-
-
 
 <div align="center">
 
-### Hey, je suis Hery , Développeur Fullstack.
-  
-Je me spécialise dans le **développement web & mobile**, avec une expertise en supervision de systèmes et intégration d'IA.  
-Reconnu pour ma rigueur et ma capacité à concevoir des solutions adaptées à des contextes réels.
+# Hey, I'm Hery — Fullstack Developer.
+
+I specialize in **web & mobile development**, with expertise in system supervision and AI integration.  
+Known for my rigor and ability to design solutions adapted to real-world contexts.
 
 </div>
 
 ---
 
-##  Stack Technique
+## 🧰 Tech Stack
 
-<div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700" />
-</div>
+
 
 ### Front-end
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -39,43 +33,31 @@ Reconnu pour ma rigueur et ma capacité à concevoir des solutions adaptées à 
 ### Mobile
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
-### Data & IA
+### Data & AI
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![InfluxDB](https://img.shields.io/badge/InfluxDB-22ADF6?style=for-the-badge&logo=influxdb&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 
-### Réseau & Outils
+### Network & Tools
 ![GNS3](https://img.shields.io/badge/GNS3-313131?style=for-the-badge&logo=gns3&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
+---
 
-
-## Contacts
+## 📬 Contact
 
 <div align="center">
-
-
-
 <a href="mailto:r.heryjo@gmail.com">
   <img src="https://img.shields.io/badge/r.heryjo%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
-
 <a href="https://github.com/HeryJL" target="_blank">
   <img src="https://img.shields.io/badge/HeryJL-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
-
-<a href="https://www.linkedin.com//in/hery-jl" target="_blank">
-  <img src="https://img.shields.io/badge/hery Laurier-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+<a href="https://www.linkedin.com/in/hery-jl" target="_blank">
+  <img src="https://img.shields.io/badge/Hery%20Laurier-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-
-
-
-
 </div>
-
-
-
