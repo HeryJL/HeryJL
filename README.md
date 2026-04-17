@@ -54,10 +54,10 @@ Known for my rigor and ability to design solutions adapted to real-world context
 <a href="mailto:r.heryjo@gmail.com">
   <img src="https://img.shields.io/badge/r.heryjo%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
-<a href="https://github.com/HeryJL" target="_blank">
-  <img src="https://img.shields.io/badge/HeryJL-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
 <a href="https://www.linkedin.com/in/hery-jl" target="_blank">
   <img src="https://img.shields.io/badge/Hery%20Laurier-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://hery-portfolio.vercel.app/" target="_blank">
+  <img src="https://img.shields.io/badge/HERY.JL-13171c?style=for-the-badge&logo=Vercel&logoColor=white" />
 </a>
 </div>
